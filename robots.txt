@@ -1,0 +1,7 @@
+User-agent: Yandex
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://grishkov0106-cmd.github.io/sitemap.xml
